@@ -11,6 +11,8 @@
 This classic project explores the end-to-end process of a machine learning process using the Hands-On Machine Learning book by Aurélien Geron. We perform data analysis, feature engineering, create data pipelines and fit different models to select the best ones. From there we, use ensemble methods and perform evaluations improve accuracy. 
 
 The dataset contains housing and demographic information on California districts. The features are a mixture of categorical and numeric values. 
+
+
 <img width="462" alt="image" src="https://user-images.githubusercontent.com/40530704/226675118-9eeee663-c16c-46f8-852f-135ca400750a.png">
 
 
